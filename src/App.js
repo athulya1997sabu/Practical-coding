@@ -10,8 +10,11 @@ import FindDuplicatesArray from './components/FindDuplicates';
 import FlattenArray from './components/FlattenArray';
 import FlattenArrayLoop from './components/FlattenArrayLoop';
 import FormSubmit from './components/FormSubmit';
+import LoginUsingAxios from './components/LoginUsingAxios';
+import LoginUsingFetch from './components/LoginUsingFetch';
 import MatrixTraspose from './components/MatrixTraspose';
 import Plaindrome from './components/Plaindrome';
+import RegisterForm from './components/RegisterForm';
 import RemoveDuplicates from './components/RemoveDuplicates';
 import SumOfElements from './components/sumOfElementsOfArray';
 import SumOfElemntsOfTwoArray from './components/SumOfElemntsOfTwoArray';
@@ -21,10 +24,10 @@ import Table from './components/Table';
 function App() {
   return (
     <div className="App">
-     <ArrayInduction/>
+     {/* <ArrayInduction/>
      <FabinocciSeries/>
      <Anagrams/>
-     {/* <FetchData/> */}
+     <FetchData/>
      <FindLargest/>
      <Plaindrome/>
      <FindDuplicatesArray/>
@@ -37,7 +40,10 @@ function App() {
      <FlattenArrayLoop/>
      <Table/>
      <MatrixTraspose/>
-     <AABBBCCAA/>
+     <AABBBCCAA/> */}
+     <RegisterForm/>
+     <LoginUsingFetch/>
+     <LoginUsingAxios/>
     </div>
   );
 }
