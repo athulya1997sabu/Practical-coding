@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Alice Johnson",
+      "age": 25,
+      "education": "Bachelor's Degree in Computer Science"
+    },
+    {
+      "name": "Bob Smith",
+      "age": 30,
+      "education": "Master's Degree in Business Administration"
+    },
+    {
+      "name": "Charlie Brown",
+      "age": 22,
+      "education": "Associate's Degree in Graphic Design"
+    },
+    {
+      "name": "Diana Prince",
+      "age": 28,
+      "education": "Bachelor's Degree in Biology"
+    },
+    {
+      "name": "Ethan Hunt",
+      "age": 35,
+      "education": "Ph.D. in Physics"
+    },
+    {
+      "name": "Fiona Gallagher",
+      "age": 27,
+      "education": "Bachelor's Degree in Marketing"
+    },
+    {
+      "name": "George Miller",
+      "age": 31,
+      "education": "Master's Degree in Civil Engineering"
+    },
+    {
+      "name": "Hannah Lee",
+      "age": 24,
+      "education": "Bachelor's Degree in Psychology"
+    },
+    {
+      "name": "Ian Malcolm",
+      "age": 40,
+      "education": "Ph.D. in Ecology"
+    },
+    {
+      "name": "Julia Roberts",
+      "age": 29,
+      "education": "Master's Degree in Fine Arts"
+    }
+  ]
+  

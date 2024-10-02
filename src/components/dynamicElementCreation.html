@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Dynamic Element Creation</title>
+  </head>
+  <body>
+    <div id="container"></div>
+    <button id="button">ADD dynamic</button>
+    <script>
+      const container = document.getElementById("container");
+      const button = document.getElementById("button");
+      button.addEventListener("click", () => {
+        const newDiv = document.createElement("div");
+        newDiv.textContent = "new element";
+        container.appendChild(newDiv);
+      });
+    </script>
+  </body>
+</html>
